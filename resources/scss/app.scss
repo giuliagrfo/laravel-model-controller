@@ -1,1 +1,18 @@
-@import '~bootstrap/scss/bootstrap'
+@import '~bootstrap/scss/bootstrap';
+
+body {
+    background-color: black;
+}
+
+header {
+    .logo {
+        width: 50px;
+    }
+}
+
+footer {
+    .logo {
+        width: 50px;
+        filter: invert(1);
+    }
+}
