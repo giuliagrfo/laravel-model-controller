@@ -1,6 +1,7 @@
 <footer class="mt-5 p-5 text-white">
     <div class="container">
         <img class="logo" style="filter: invert;" src="{{Vite::asset('resources/img/logo.png')}}" alt="">
+        <!-- logo -->
         <div class="row mt-4">
             <div class="col-3">
                 <ul class="list-unstyled">
@@ -65,6 +66,7 @@
                 </ul>
             </div>
         </div>
+        <!-- links -->
 
     </div>
 </footer>

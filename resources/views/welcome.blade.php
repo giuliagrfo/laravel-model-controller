@@ -18,7 +18,7 @@
             </div>
         </div>
         @empty
-        <p></p>
+        <p>No Movies Available</p>
         @endforelse
     </div>
 </div>
