@@ -18,6 +18,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#">Series</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{route('contacts')}}">Contacts</a>
+                    </li>
                 </ul>
                 <form class="d-flex my-2 my-lg-0">
                     <input class="form-control me-sm-2 rounded-5" type="text" placeholder="Search">

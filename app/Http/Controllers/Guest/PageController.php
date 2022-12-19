@@ -13,4 +13,9 @@ class PageController extends Controller
         $movies = Movie::all();
         return view('welcome', compact('movies'));
     }
+
+    public function contacts()
+    {
+        return view('contacts');
+    }
 }
